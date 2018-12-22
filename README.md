@@ -3,14 +3,14 @@ AI Write Chinese Sentence Word Python Javascript 语录系统 词云  词库 随
 
 
 官网:
-http://www.xiazai520.xyz/
+http://www.freeyuming.cn/
 
 调用接口 API:
 txt:
-http://www.xiazai520.xyz/word
+http://www.freeyuming.cn/word
 
 json:
-http://www.xiazai520.xyz/word
+http://www.freeyuming.cn/wordjs
 
 随机产生句子 随机产生评论
 
