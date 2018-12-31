@@ -1,3 +1,3 @@
 Import "ShanHai.lua"
-TracePrint shanhai.GetHttp("http://www.xiazai520.xyz/word")
+TracePrint shanhai.GetHttp("http://www.freeyuming.cn/word")
 							
